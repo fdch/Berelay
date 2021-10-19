@@ -1,0 +1,10 @@
+#N canvas 527 487 350 247 12;
+#X obj 10 10 param.get 1 level;
+#X obj 10 32 param.get 2 repeats;
+#X obj 10 54 param.get 3 time;
+#X obj 10 76 param.get 4 levelt2;
+#X obj 10 98 param.get 5 mod;
+#X obj 10 120 param.get 6 fine;
+#X obj 10 141 param.get 7 feedback;
+#X obj 10 162 param.get 8 div;
+#X obj 10 184 param.get 9 tempo;
