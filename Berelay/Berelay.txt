@@ -1,0 +1,13 @@
+type effect;
+iolayout 1 1;
+code zD3t;
+description Infos.txt;
+param -name Level -min 0 -max 127 -label dB;
+param -name Repeats -min 0 -max 127 -label %;
+param -name Time -min 0 -max 127 -label Msec;
+param -name Level T2 -min 0 -max 127 -label %;
+param -name Mod -min 0 -max 127 -label %;
+param -name Fine -min -100000 -max 100000 -label %;
+param -name Feedback -min 0 -max 1 -label %;
+param -name Div -min 0 -max 6 -label %;
+param -name Tempo -min 0 -max 127 -label Bpm;

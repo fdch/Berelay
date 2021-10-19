@@ -1,0 +1,4 @@
+This is a copy of the mdt-6 delay by the Argentinian pedal maker company "dedalus". It is intended for educational purposes.
+
+Version: 0.1
+Author: ffddcchh
